@@ -1,0 +1,3 @@
+[2021-05-28 15:20:07]-[main]-[Log4jTest1.java:17]-[INFO]-[org.gc.log4j.Log4jTest1]:test logger
+[2021-05-28 15:28:22]-[main]-[Log4jTest1.java:17]-[INFO]-[org.gc.log4j.Log4jTest1]:test logger
+[2021-05-31 16:38:38]-[main]-[Log4jTest1.java:17]-[INFO]-[org.gc.log4j.Log4jTest1]:test logger
